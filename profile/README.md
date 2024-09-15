@@ -8,3 +8,5 @@ Simple! Just fork 🍴 one of our repositories you want to work on, add your cha
 Please be aware changes to freakybob.site are common and can happen fast! ⏱️ Bugs? 🐛 Make an issue!
 <br>
 Thanks for checking out our project! ❤️
+<br>
+Repositories are licensed under the GPL-3.0 license unless otherwise noted.
