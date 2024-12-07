@@ -15,5 +15,7 @@ Repositories are licensed under the GPL-3.0 license unless otherwise noted.
 # Quotes
 
 > "Changing lives on freakybob at a time" - 5quirre1
+> 
 > "Let me out let me out" - nameswastaken
+> 
 > "no matter famous or not, all that matters to me is that someone out there, is using it" - wish13yt
