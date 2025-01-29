@@ -1,5 +1,8 @@
 # "Making dead memes deader"
-![image](https://github.com/user-attachments/assets/75000d9d-87a8-42ba-9d40-896d26da02c0)
+![image](https://github.com/user-attachments/assets/7b492d57-53d6-436b-bf99-d050869b1f05)
+
+
+
 
 You've reached freakybob.site, a team and community dedicated to memes. 🧽
 <br>
