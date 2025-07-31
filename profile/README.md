@@ -23,3 +23,5 @@ Repositories are licensed under the GPL-3.0 license unless otherwise noted.
 > "Let me out let me out" - nameswastaken
 > 
 > "no matter famous or not, all that matters to me is that someone out there, is using it" - wish13yt
+>
+> "wow this sucks" - Hyper
